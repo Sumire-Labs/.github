@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Sumire-Labs/.github/main/profile/sumire_server_icon.png" alt="Sumire Labs Logo" width="150">
+  <img src="https://raw.githubusercontent.com/Sumire-Labs/.github/main/sumire_server_icon.png" alt="Sumire Labs Logo" width="150">
 
   # Sumire Labs
 
