@@ -18,9 +18,7 @@
 We are involved in
 Minecraft mod development, useful Discord bots, innovative application development, and more.
 
-### ✨ Our Projects / 代表的なプロジェクト
-
-私たちの代表的なプロジェクトの一部です。詳細は各リポジトリをご覧ください。
+### ✨ Our Projects
 
 | Project | Description | Repository |
 | :--- | :--- | :--- |
