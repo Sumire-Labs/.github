@@ -14,7 +14,7 @@
 
 ### 👾 About Us
 
-**Sumire Labs** is the official development team for the Discord server ‘[Sumire Server](https://discord.gg/H8eh2hR79e)’.
+**Sumire Labs** is the official development team for the Discord server [Sumire Server](https://discord.gg/H8eh2hR79e).
 We are involved in
 Minecraft mod development, useful Discord bots, innovative application development, and more.
 
