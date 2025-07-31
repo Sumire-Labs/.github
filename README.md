@@ -6,7 +6,7 @@
 
   **Sumire Server Official Development Team**
 
-  [![Discord](https://img.shields.io/discord/843534494224220190?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/H8eh2hR79e)
+  [![Discord](https://img.shields.io/discord/1291146509882101780?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/H8eh2hR79e)
 
 </div>
 
