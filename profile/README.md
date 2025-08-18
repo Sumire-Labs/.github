@@ -22,15 +22,5 @@
         <td><a href="https://github.com/Sumire-Labs">📄 GitHub</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Sumire-Labs/Iris">📄 Iris </a></td>
+        <td><a href="https://github.com/Sumire-Labs/Serene">🐬 Serene </a></td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/Sumire-Labs/Lyra">📄 Lyra</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Sumire-Labs/Luna">📄 Luna</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Sumire-Labs/SmoothBoot-Legacy">📄 SmoothBoot Legacy</a></td>
-    </tr>
-</table>
