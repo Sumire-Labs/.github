@@ -24,3 +24,6 @@
     <tr>
         <td><a href="https://github.com/Sumire-Labs/Serene">🐬 Serene </a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Sumire-Labs/License-list">🪙 License List </a></td>
+    </tr>
