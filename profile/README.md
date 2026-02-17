@@ -35,7 +35,7 @@
 <div align="center">
 
 ### Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=java,cs,python,typescript,javascript,go,dart,flutter&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,python,typescript,javascript,go)
 
 ### Frontend Development
 ![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,tailwind,html,css,vite,vercel&theme=dark)
@@ -50,10 +50,10 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm&theme=dark)
 
 ### DevOps & Automation
-![My Skills](https://skillicons.dev/icons?i=docker,git,github,bash,powershell,githubactions&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark)
 
 ### Platforms
-![My Skills](https://skillicons.dev/icons?i=windows,azure&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=windows)
 
 </div>
 
