@@ -1,9 +1,60 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Sumire-Labs/.github/main/sumire_server_icon.png" alt="Sumire Labs Logo" width="150">
+# Sumire Lab
 
-  # Sumire Labs
+**サーモンを片手に暴れまわる集団**
 
-  **Sumire Server Official Development Team**
+</div>
 
-  [![Discord](https://img.shields.io/discord/1291146509882101780?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/H8eh2hR79e)
+---
+
+## 主なプロジェクト
+
+<table align="center">
+    <tr>
+        <th>Projects&Links</th>
+    </tr>
+    <tr>
+        <td><a href="https://sumiresaba.com">Website</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Sumire-Labs">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Sumire-Labs/Celeritas-Extra">Celeritas Extra</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Sumire-Labs/SumireVoxBot">SumiereVox読み上げBot</a></td>
+    </tr>
+</table>
+
+---
+
+## 技術スタック
+
+<div align="center">
+
+### Languages & Frameworks
+![My Skills](https://skillicons.dev/icons?i=java,cs,python,typescript,javascript,go,dart,flutter&theme=dark)
+
+### Frontend Development
+![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,tailwind,html,css,vite,vercel&theme=dark)
+
+### Backend & Server
+![My Skills](https://skillicons.dev/icons?i=nodejs,nginx&theme=dark)
+
+### Databases
+![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,mongodb,redis&theme=dark)
+
+### Development Tools
+![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm&theme=dark)
+
+### DevOps & Automation
+![My Skills](https://skillicons.dev/icons?i=docker,git,github,bash,powershell,githubactions&theme=dark)
+
+### Platforms
+![My Skills](https://skillicons.dev/icons?i=windows,azure&theme=dark)
+
+</div>
+
+---
