@@ -25,6 +25,8 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Sumire-Labs/SumireVoxBot">SumiereVox読み上げBot</a></td>
+    </tr>
+    <tr>
         <td><a href="https://sumirevox.com">SumireVoxWebsite</a></td>
     </tr>
 </table>
