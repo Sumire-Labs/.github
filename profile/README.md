@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![わ](https://skillicons.dev/icons?i=java,python,typescript,go,vue,react,tailwind,vite,vercel,nginx,sqlite,postgres,vscode,idea,docker)
+![わ](https://skillicons.dev/icons?i=java,python,typescript,go,vue,react,tailwind,vite,vercel,nginx,sqlite,postgres,vscode,idea,docker,redis,kotlin,nuxt,next)
 
 </div>
 
