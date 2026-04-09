@@ -21,13 +21,13 @@
         <td><a href="https://github.com/Sumire-Labs">GitHub</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Sumire-Labs/Celeritas-Extra">Celeritas Extra</a></td>
+        <td><a href="https://github.com/Sumire-Labs/Celeritas-Extra">Celeritas Extra - 1.12.2 Sodium Extra</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Sumire-Labs/SumireVoxBot">SumiereVox読み上げBot</a></td>
+        <td><a href="https://github.com/Sumire-Labs/Pulsar">Pulsar - 1.12.2 Starlight</a></td>
     </tr>
     <tr>
-        <td><a href="https://sumirevox.com">SumireVoxWebsite</a></td>
+        <td><a href="https://sumirevox.com">SumireVox - VoiceVox読み上げBOT</a></td>
     </tr>
 </table>
 
