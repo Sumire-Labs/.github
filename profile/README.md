@@ -29,6 +29,9 @@
     <tr>
         <td><a href="https://sumirevox.com">SumireVox - VoiceVox読み上げBOT</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/Sumire-Labs/Create-Astralization">Create-Astralization</a></td>
+    </tr>
 </table>
 
 ---
