@@ -35,13 +35,3 @@
 </table>
 
 ---
-
-## 技術スタック
-
-<div align="center">
-
-![わ](https://skillicons.dev/icons?i=java,py,ts,js,go,vue,react,tailwind,vite,vercel,nginx,sqlite,postgres,vscode,idea,pycharm,docker,redis,kotlin,nodejs,nuxt,next,discord,bots,discordjs,html,css,git,github,gmail,linux,powershell,fastapi,grafana,prisma,ubuntu,webstorm,windows)
-
-</div>
-
----
