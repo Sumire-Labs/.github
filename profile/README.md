@@ -17,9 +17,9 @@ This organization was born out of a desire to freely create whatever we felt lik
 A new 1.12.2 lighting engine based on Starlight.
 [CurceForge](https://www.curseforge.com/minecraft/mc-mods/pulsar-lighting-engine) | [Modrinth](https://modrinth.com/mod/pulsar-lighting-engine) | [Github](https://github.com/Sumire-Labs/Pulsar)
 
-### [Celeritas Extra](https://github.com/Sumire-Labs/Celeritas-Extra)
+### [Celeritas/Actinium Extra](https://github.com/Sumire-Labs/Celeritas-Extra)
 
-Unofficial add-on for Celeritas 1.12.2.
+Unofficial add-on for Celeritas/Actinium.
 [CurceForge](https://www.curseforge.com/minecraft/mc-mods/celeritas-extra) | [Modrinth](https://modrinth.com/mod/celeritas-extra) | [Github](https://github.com/Sumire-Labs/Celeritas-Extra)
 
 ### [SodiumLeafCulling-Unofficial](https://github.com/Sumire-Labs/SodiumLeafCulling-Unofficial)
