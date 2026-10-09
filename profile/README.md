@@ -42,4 +42,10 @@ The Ultimate Progression-Based Create Modpack
 Discord VoiceVox text-to-speech bot using GPU generation.
 [Website](https://sumirevox.com/) | [Github](https://sumirevox.com/)
 
+## Other
+[s12kuma01's Bin (My Project Roundup)](https://github.com/Sumire-Labs/.github/blob/main/profile/s12kuma01's-Bin.md)
+
 </div>
+
+
+
